@@ -1,2 +1,2 @@
 # rnascp
-Pure rust singe cell rnaseq pseudo alignment pipeline.
+Pure rust singe cell rnaseq pseudo alignment pipeline.  Work in progress.
